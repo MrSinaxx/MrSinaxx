@@ -5,7 +5,7 @@
 # 💫 About Me:
 🌱 I'm constantly learning and exploring new technologies. <br>🎓 I hold a bachelor degree in Industrial engineering from Sharif University of Technology <br>💡 I'm interested in anything Data related and MLs<br>🧠  I'm learning Backend development<br><br>🌍  I'm based in Kish,Iran<br>✉️  You can contact me at [sinaleylaz@yahoo.com](mailto:sinaleylaz@yahoo.com)<br>🤝  I'm open to collaborating on Intesting projects<br><br>
 
----
+
 ## 🌐 Socials:
 <div align="center">
 <a href="https://twitter.com/s" target="_blank">
@@ -42,7 +42,7 @@
 
  
 # 💻 Tech Stacks:
-### Frontend
+## Frontend
 <div align="center">
 <a target="_blank">
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white style="margin-bottom: 5px;" />
@@ -70,7 +70,7 @@
 </a>
 </div>
 
-### Data Science / ML
+## Data Science / ML
 <div align="center">
 <a target="_blank">
 <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white style="margin-bottom: 5px;" />
@@ -96,7 +96,7 @@
 </a>
 </div>
 
-### Tools
+## Tools
 <div align="center">
 <a target="_blank">
 <img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white style="margin-bottom: 5px;" />
@@ -127,7 +127,7 @@
 </a>
 </div>
 
-### Backend
+## Backend
 <div align="center">
 <a target="_blank">
 <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white style="margin-bottom: 5px;" />

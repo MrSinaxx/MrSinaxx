@@ -10,7 +10,7 @@
 
 # 🏆 Projects and Achievements 
 - Co-founded **Ikish**, a tourism startup that secured second place in the Festival of Ideas and was later acquired by the Kish Free Zone Organization.
-- Co-founded **Az Shanbe Varzesh** , a project combining tourism and health, which achieved second place in the 2nd Iranian Health Hackathon but was unable to continue due to government restrictions.
+- Co-founded **Az Shanbe Varzesh** , a project combining tourism and health, which achieved third place in the 2nd Iranian Health Hackathon but was unable to continue due to government restrictions.
 - Developed **Scotech** , a food ordering and payment platform with a wallet system that won first place in the First International e-tourism Hackathon but did not succeed due to lack of investment.
 
 

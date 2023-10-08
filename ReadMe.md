@@ -62,9 +62,6 @@
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a target="_blank">
-<img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
 <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB style="margin-bottom: 5px;" />
 </a>
 <a target="_blank">
@@ -85,9 +82,6 @@
 </a>
 </a><a target="_blank">
 <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white style="margin-bottom: 5px;" />
-</a>
-</a><a target="_blank">
-<img src=	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white style="margin-bottom: 5px;" />
 </a>
 </a><a target="_blank">
 <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white style="margin-bottom: 5px;" />
@@ -128,9 +122,6 @@
 <a target="_blank">
 <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white style="margin-bottom: 5px;" />
-<a target="_blank">
 <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a target="_blank">
@@ -148,9 +139,6 @@
 </a>
 <a target="_blank">
 <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a target="_blank">
 <img src=https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase style="margin-bottom: 5px;" />
